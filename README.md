@@ -23,7 +23,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Clients
 
-- [meltland2002/my-website/9ad](https://github.com/meltland2002/my-website/tree/main/projects/9ad) [🌐](https://meltland.dev/projects/9ad/) - A client for legacy iPads
+- [meltland2002/my-website/9ad](https://github.com/meltland2002/my-website/tree/main/projects/9ad) [🌐](https://meltland.dev/projects/9ad/) - A client for legacy iPads.
 - [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) [🌐](https://app.meower.org) - A Meower client written in Svelte. 🐱
 - [3r1s-s/meo](https://github.com/3r1s-s/meo) [🌐](https://meo-32r.pages.dev) - Neo + Meower.
 - [WlodekM/meower-barebones-v2](https://github.com/WlodekM/meower-barebones-v2) [🌐](https://https://meower-barebones-v2.pages.dev) - A barebones Meower client.
