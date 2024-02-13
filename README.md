@@ -16,7 +16,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 <table>
 <tr><td>🐱</td><td>Official</td></tr>
-<tr><td>😕</td><td>Deprecated</td></tr>
+<tr><td>😕</td><td>Deprecated/Unmaintained</td></tr>
 </table>
 
 ## Clients
@@ -26,3 +26,10 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) - A Meower client written in Svelte. 🐱
 - [meower-media-co/Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla) - The original Meower client, written in Scratch 3.0.  🐱😕
 - [mybearworld/roarer](https://github.com/mybearworld/roarer) - A roar-some Meower client.
+
+## Bots
+
+- [JoshAtticus/GeminiumBot](https://github.com/JoshAtticus/GeminiumBot) - Meower bot for Geminium; an AtticusAI Project
+- [meower-community/MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot
+- [meower-community/Webhooks](https://github.com/meower-community/Webhooks) - A Meower bot for posting without Cloudlink.
+- [meower-media-co/Meower-Discord-Bot](https://github.com/meower-media-co/Meower-Discord-Bot) - Source code for the DiscordAuth Meower and Discord bot.
