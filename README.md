@@ -9,8 +9,8 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Categories
 
-- [💻 Clients](#clients)
-- [🤖 Bots](#bots)
+- [Clients](#clients)
+- [Bots](#bots)
 
 ## Emoji Key
 
