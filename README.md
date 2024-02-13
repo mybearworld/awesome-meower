@@ -22,24 +22,25 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Clients
 
-- [BetterMeower/ClassicClient](https://github.com/BetterMeower/ClassicClient) - A fork of Meower Svelte with some new and improved features. 😕
-- [BetterMeower/NeonClient](https://github.com/BetterMeower/NeonClient) - The BetterMeower you know and love; revamped 😕
+
+- [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) - A Meower client written in Svelte. 🐱
 - [3r1s-s/meo](https://github.com/3r1s-s/meo) - Neo + Meower
 - [WlodekM/meower-barebones-v2](https://github.com/WlodekM/meower-barebones-v2) - A barebones Meower client
-- [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) - A Meower client written in Svelte. 🐱
-- [meower-media-co/Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla) - The original Meower client, written in Scratch 3.0.  🐱😕
 - [mybearworld/roarer](https://github.com/mybearworld/roarer) - A roar-some Meower client.
+- [meower-media-co/Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla) - The original Meower client, written in Scratch 3.0.  😕🐱
+- [BetterMeower/ClassicClient](https://github.com/BetterMeower/ClassicClient) - A fork of Meower Svelte with some new and improved features. 😕
+- [BetterMeower/NeonClient](https://github.com/BetterMeower/NeonClient) - The BetterMeower you know and love; revamped 😕
 
 ## Bots
 
+- [meower-media-co/Meower-Discord-Bot](https://github.com/meower-media-co/Meower-Discord-Bot) - Source code for the DiscordAuth Meower and Discord bot. 🐱
 - [JoshAtticus/GeminiumBot](https://github.com/JoshAtticus/GeminiumBot) - Meower bot for Geminium; an AtticusAI Project
 - [meower-community/MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot
 - [meower-community/Webhooks](https://github.com/meower-community/Webhooks) - A Meower bot for posting without Cloudlink.
-- [meower-media-co/Meower-Discord-Bot](https://github.com/meower-media-co/Meower-Discord-Bot) - Source code for the DiscordAuth Meower and Discord bot. 🐱
 
 ## Libraries
 
-- [meower-community/MeowerBot.js](https://github.com/meower-community/MeowerBot.js) - Port of MeowerBot.py to Node.js and TypeScript 😕[^1]
 - [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower
+- [meower-community/MeowerBot.js](https://github.com/meower-community/MeowerBot.js) - Port of MeowerBot.py to Node.js and TypeScript 😕[^1]
 
 [^1]: Updates aren't pushed to NPM anymore.
