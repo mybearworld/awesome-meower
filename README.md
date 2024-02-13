@@ -11,6 +11,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 - [Clients](#clients)
 - [Bots](#bots)
+- [Libraries](#libraries)
 
 ## Emoji Key
 
@@ -35,3 +36,10 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [meower-community/MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot
 - [meower-community/Webhooks](https://github.com/meower-community/Webhooks) - A Meower bot for posting without Cloudlink.
 - [meower-media-co/Meower-Discord-Bot](https://github.com/meower-media-co/Meower-Discord-Bot) - Source code for the DiscordAuth Meower and Discord bot. 🐱
+
+## Libraries
+
+- [meower-community/MeowerBot.js](https://github.com/meower-community/MeowerBot.js) - Port of MeowerBot.py to Node.js and TypeScript 😕[^1]
+- [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower
+
+[^1]: Updates aren't pushed to NPM anymore.
