@@ -21,6 +21,8 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Clients
 
+- [BetterMeower/ClassicClient](https://github.com/BetterMeower/ClassicClient) - A fork of Meower Svelte with some new and improved features. 😕
+- [BetterMeower/NeonClient](https://github.com/BetterMeower/NeonClient) - The BetterMeower you know and love; revamped 😕
 - [3r1s-s/meo](https://github.com/3r1s-s/meo) - Neo + Meower
 - [WlodekM/meower-barebones-v2](https://github.com/WlodekM/meower-barebones-v2) - A barebones Meower client
 - [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) - A Meower client written in Svelte. 🐱
