@@ -26,7 +26,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) [🌐](https://app.meower.org) - A Meower client written in Svelte. 🐱
 - [3r1s-s/meo](https://github.com/3r1s-s/meo) [🌐](https://meo-32r.pages.dev) - Neo + Meower
 - [WlodekM/meower-barebones-v2](https://github.com/WlodekM/meower-barebones-v2) [🌐](https://https://meower-barebones-v2.pages.dev) - A barebones Meower client
-- [mybearworld/roarer](https://github.com/mybearworld/roarer) [🌐](https://mybearworld.github.io/roarer) - A roar-some Meower client.
+- [mybearworld/roarer](https://github.com/mybearworld/roarer) [🌐](https://mybearworld.github.io/roarer) - A simple mobile-friendly Meower client.
 - [meower-media-co/Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla) [🌐](https://old.meower.org) - The original Meower client, written in Scratch 3.0. 😕🐱
 - [BetterMeower/ClassicClient](https://github.com/BetterMeower/ClassicClient) [🌐](https://classic.bettermeower.app) - A fork of Meower Svelte with some new and improved features. 😕
 - [BetterMeower/NeonClient](https://github.com/BetterMeower/NeonClient) [🌐](https://bettermeower.app) - The BetterMeower you know and love; revamped 😕
