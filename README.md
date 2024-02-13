@@ -5,4 +5,4 @@
 
 Meower is an innovative non-profit and open-source social media platform that prioritizes user privacy by never selling your data, never collecting more than we need to, and never displaying ads.
 
-This repository is an unofficial list of links to awesome repositories around meower!
+This repository is an unofficial list of links to awesome repositories around Meower!
