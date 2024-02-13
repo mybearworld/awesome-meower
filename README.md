@@ -42,5 +42,6 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 - [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower
 - [meower-community/MeowerBot.js](https://github.com/meower-community/MeowerBot.js) - Port of MeowerBot.py to Node.js and TypeScript 😕[^1]
+- [meower-community/Meowerbot-Scratch](https://github.com/meower-community/Meowerbot-Scratch) - A Scratch extension for Meower bots 😕
 
 [^1]: Updates aren't pushed to NPM anymore.
