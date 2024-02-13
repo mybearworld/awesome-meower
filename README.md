@@ -49,5 +49,5 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Tools
 - [JoshAtticus/themium](https://github.com/JoshAtticus/themium/) [🌐](https://themium.pages.dev) - Create Meower themes with Geminium API
-
+- [MeowerTweaks](https://meltland.dev/projects/MeowerTweaks) - Allows you to enable and disable debug mode, and reset your theme
 [^1]: Updates aren't pushed to NPM anymore.
