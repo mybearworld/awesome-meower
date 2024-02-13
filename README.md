@@ -1,4 +1,4 @@
-<h1><picture>
+<h1 align="center"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://meower.org/assets/meowerlogo-white.svg" />
 	<img alt="Meower" src="https://meower.org/assets/meowerlogo.svg"/>
 </picture></h1>
