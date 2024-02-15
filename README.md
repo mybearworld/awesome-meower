@@ -17,8 +17,8 @@ This repository is an unofficial list of links to awesome repositories around Me
 ## Emoji Key
 
 <table>
-<tr><td>🐱</td><td>Official</td></tr>
-<tr><td>😕</td><td>Deprecated/Unmaintained</td></tr>
+<tr><td>🐱</td><td>Official</td><td></td></tr>
+<tr><td>😕</td><td>Deprecated/Unmaintained</td><td>These will only get added when they're noteworthy.</td></tr>
 </table>
 
 ## Clients
