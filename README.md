@@ -53,6 +53,6 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [JoshAtticus/themium](https://github.com/JoshAtticus/themium/) [🌐](https://themium.pages.dev) - Create Meower themes with Geminium API.
 
 ## Other
-- [HTTP Meower](https://github.com/meower-media-co/http-meower) - A Meowy version of http.dog and http.cat
+- [HTTP Meower](https://github.com/meower-media-co/http-meower) - A Meowy version of http.dog and http.cat 🐱
 
 [^1]: Updates aren't pushed to NPM anymore.
