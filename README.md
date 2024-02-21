@@ -52,4 +52,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [meltland2002/my-website/MeowerTweaks.html](https://github.com/meltland2002/my-website/blob/main/projects/MeowerTweaks.html) [🌐](https://meltland.dev/projects/MeowerTweaks) - Enable/disable debug mode and reset your theme.
 - [JoshAtticus/themium](https://github.com/JoshAtticus/themium/) [🌐](https://themium.pages.dev) - Create Meower themes with Geminium API.
 
+## Other
+- [HTTP Meower](https://github.com/meower-media-co/http-meower) [🌐](https://http.meower.org/) - A Meowy version of http.dog and http.cat 🐱
+
 [^1]: Updates aren't pushed to NPM anymore.
