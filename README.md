@@ -26,7 +26,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) [🌐](https://app.meower.org) - A Meower client written in Svelte. 🐱
 - [meltland2002/my-website/9ad](https://github.com/meltland2002/my-website/tree/main/projects/9ad) [🌐](https://meltland.dev/projects/9ad/) - A client for legacy iPads.
 - [3r1s-s/meo](https://github.com/3r1s-s/meo) [🌐](https://meo-32r.pages.dev) - Neo + Meower.
-- [WlodekM/meower-barebones-v2](https://github.com/WlodekM/meower-barebones-v2) [🌐](https://https://meower-barebones-v2.pages.dev) - A barebones Meower client.
+- [WlodekM/meower-barebones-v2](https://github.com/WlodekM/meower-barebones-v2) [🌐](https://meower-barebones-v2.pages.dev) - A barebones Meower client.
 - [meltland2002/Pillar-HTML](https://github.com/meltland2002/Pillar-HTML/tree/main) [🌐](https://pillar.getsardonyx.cc/) - A Meower mobile client made in HTML.
 - [mybearworld/roarer](https://github.com/mybearworld/roarer) [🌐](https://mybearworld.github.io/roarer) - A simple mobile-friendly Meower client.
 - [meower-media-co/Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla) [🌐](https://old.meower.org) - The original Meower client, written in Scratch 3.0. 😕🐱
