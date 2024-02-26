@@ -54,5 +54,6 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Other
 - [HTTP Meower](https://github.com/meower-media-co/http-meower) [🌐](https://http.meower.org/) - A Meowy version of http.dog and http.cat 🐱
+- [showierdata9978/meower-scratch-backup](https://github.com/showierdata9978/meower-scratch-backup) [🌐](https://meower-scratch-backup.pages.dev/) - An archive of the original Meower forum topic on Scratch.
 
 [^1]: Updates aren't pushed to NPM anymore.
