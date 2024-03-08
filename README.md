@@ -40,6 +40,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [JoshAtticus/GeminiumBot](https://github.com/JoshAtticus/GeminiumBot) - Meower bot for Geminium; an AtticusAI Project.
 - [meower-community/MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot.
 - [meower-community/Webhooks](https://github.com/meower-community/Webhooks) - A Meower bot for posting without Cloudlink.
+- [WlodekM/WlodekBot](https://github.com/WlodekM/WlodekBot]) - A fork of wlbot with more features and easier customizability.
 
 ## Libraries
 
