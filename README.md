@@ -45,6 +45,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 ## Libraries
 
 - [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower.
+- [gamerlogan819/MeowerBot-Turbowarp](https://github.com/gamerlogan819/Meowerbot-Turbowarp) - A template that lets you build your own bot in TurboWarp.
 - [Scratchy2/meowerclient](https://github.com/Scratchy2/meowerclient/tree/main) - A Python client to view the 25 most recent Meower posts.
 - [mybearworld/roarbot](https://github.com/mybearworld/roarbot) [🌐](https://mybearworld.github.io/roarer/#/bot) - Robots for Meower in Typescript.
 - [meower-community/MeowerBot.js](https://github.com/meower-community/MeowerBot.js) - Port of MeowerBot.py to Node.js and TypeScript. 😕[^1]
