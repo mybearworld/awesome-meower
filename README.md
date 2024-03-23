@@ -44,8 +44,8 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Libraries
 
-- [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower.
-- [meower-media-co/Meower.js](https://github.com/meower-media-co/Meower.js) - An offical libary for both meower clients and bots! 🐱 
+- [meower-media-co/Meower.js](https://github.com/meower-media-co/Meower.js) - An offical libary for both meower clients and bots. 🐱
+- [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower. 
 - [gamerlogan819/MeowerBot-Turbowarp](https://github.com/gamerlogan819/Meowerbot-Turbowarp) - A template that lets you build your own bot in TurboWarp.
 - [Scratchy2/meowerclient](https://github.com/Scratchy2/meowerclient/tree/main) - A Python client to view the 25 most recent Meower posts.
 - [meower-community/Meowerbot-Scratch](https://github.com/meower-community/Meowerbot-Scratch) - A Scratch extension for Meower bots. 😕
