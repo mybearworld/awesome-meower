@@ -44,8 +44,8 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Libraries
 
-- [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower.
-- [meower-community/MeowerBot.js](https://github.com/meower-community/MeowerBot.js) - Port of MeowerBot.py to Node.js and TypeScript. [^1]
+- [meower-media-co/Meower.js](https://github.com/meower-media-co/Meower.js) - An offical libary for both meower clients and bots. 🐱
+- [meower-community/MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower. 
 - [gamerlogan819/MeowerBot-Turbowarp](https://github.com/gamerlogan819/Meowerbot-Turbowarp) - A template that lets you build your own bot in TurboWarp.
 - [Scratchy2/meowerclient](https://github.com/Scratchy2/meowerclient/tree/main) - A Python client to view the 25 most recent Meower posts.
 - [meower-community/Meowerbot-Scratch](https://github.com/meower-community/Meowerbot-Scratch) - A Scratch extension for Meower bots. 😕
@@ -58,4 +58,3 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [HTTP Meower](https://github.com/meower-media-co/http-meower) [🌐](https://http.meower.org/) - A Meowy version of http.dog and http.cat 🐱
 - [showierdata9978/meower-scratch-backup](https://github.com/showierdata9978/meower-scratch-backup) [🌐](https://meower-scratch-backup.pages.dev/) - An archive of the original Meower forum topic on Scratch.
 
-[^1]: The current maintainer is waiting for the old maintainer to tramsfer the name on NPM.
