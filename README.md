@@ -25,6 +25,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 - [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte) [🌐](https://app.meower.org) - A Meower client written in Svelte. 🐱
 - [meltland2002/my-website/9ad](https://github.com/meltland2002/my-website/tree/main/projects/9ad) [🌐](https://meltland.dev/projects/9ad/) - A client for legacy iPads.
+- [showierdata9978/Chords](https://github.com/showierdata9978/Chords) - A React Native Android client that was the first client made with Meower.js.
 - [3r1s-s/meo](https://github.com/3r1s-s/meo) [🌐](https://meo-32r.pages.dev) - Neo + Meower.
 - [WlodekM/meower-barebones-v2](https://github.com/WlodekM/meower-barebones-v2) [🌐](https://meower-barebones-v2.pages.dev) - A barebones Meower client.
 - [meltland2002/Pillar-HTML](https://github.com/meltland2002/Pillar-HTML/tree/main) [🌐](https://pillar.getsardonyx.cc/) - A Meower mobile client made in HTML.
