@@ -56,6 +56,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [JoshAtticus/themium](https://github.com/JoshAtticus/themium/) [🌐](https://themium.pages.dev) - Create Meower themes with Geminium API.
 
 ## Other
+- [meower-media-co/Meower-Docs](https://github.com/meower-media-co/Meower-Docs) [🌐](https://docs.meower.org/) - Public Meower documentation.
 - [meower-media-co/http-meower](https://github.com/meower-media-co/http-meower) [🌐](https://http.meower.org/) - A Meowy version of http.dog and http.cat 🐱
 - [showierdata9978/meower-scratch-backup](https://github.com/showierdata9978/meower-scratch-backup) [🌐](https://meower-scratch-backup.pages.dev/) - An archive of the original Meower forum topic on Scratch.
 
