@@ -35,7 +35,6 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Bots
 
-- [Meower Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot) - Source code for the DiscordAuth Meower and Discord bot. 🐱
 - [DominosBot](https://github.com/EngineerRunner/open-dominosbot/) - A bot that lets you view the Dominos menu.
 - [GeminiumBot](https://github.com/JoshAtticus/GeminiumBot) - Meower bot for Geminium; an AtticusAI Project.
 - [MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot.
