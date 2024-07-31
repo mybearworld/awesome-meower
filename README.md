@@ -35,6 +35,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 
 ## Bots
 
+- [BearBot](https://github.com/mybearworld/bearbot) - mybearworld's bot made in RoarBot.
 - [DominosBot](https://github.com/EngineerRunner/open-dominosbot/) - A bot that lets you view the Dominos menu.
 - [GeminiumBot](https://github.com/JoshAtticus/GeminiumBot) - Meower bot for Geminium; an AtticusAI Project.
 - [MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot.
