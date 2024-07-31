@@ -47,6 +47,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower. 
 - [MeowerBot Turbowarp](https://github.com/gamerlogan819/Meowerbot-Turbowarp) - A template that lets you build your own bot in TurboWarp.
 - [Meowerclient](https://github.com/Scratchy2/meowerclient/tree/main) - A Python client to view the 25 most recent Meower posts.
+- [RoarBot](https://github.com/mybearworld/roarbot) - A type-safe bot library in Typescript.
 - [Meowerbot Scratch](https://github.com/meower-community/Meowerbot-Scratch) - A Scratch extension for Meower bots. 😕
 
 ## Tools
