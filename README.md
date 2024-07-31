@@ -40,6 +40,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot.
 - [Webhooks](https://github.com/meower-community/Webhooks) - A Meower bot for posting without Cloudlink.
 - [WlodekBot](https://github.com/WlodekM/WlodekBot]) - A fork of wlbot with more features and easier customizability.
+- [YetAnotherBot](https://github.com/delusionsGH/yetanotherbot) - A simple but powerful Meower bot, made in Scratch. Rarely updated.
 
 ## Libraries
 
@@ -48,6 +49,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [MeowerBot Turbowarp](https://github.com/gamerlogan819/Meowerbot-Turbowarp) - A template that lets you build your own bot in TurboWarp.
 - [Meowerclient](https://github.com/Scratchy2/meowerclient/tree/main) - A Python client to view the 25 most recent Meower posts.
 - [Meowerbot Scratch](https://github.com/meower-community/Meowerbot-Scratch) - A Scratch extension for Meower bots. 😕
+- [ZZBot Reloaded (build 13/07/2024)](https://github.com/delusionsGH/zzbot-reloaded) - A barebones bot library, made in Scratch. Semi-frequently updated.
 
 ## Tools
 - [Meower Tweaks](https://github.com/meltland2002/my-website/blob/main/projects/MeowerTweaks.html) [🌐](https://meltland.dev/projects/MeowerTweaks) - Enable/disable debug mode and reset your theme.
