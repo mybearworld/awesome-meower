@@ -39,6 +39,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [DominosBot](https://github.com/EngineerRunner/open-dominosbot/) - A bot that lets you view the Dominos menu.
 - [GeminiumBot](https://github.com/JoshAtticus/GeminiumBot) - Meower bot for Geminium; an AtticusAI Project.
 - [MDWalters125](https://github.com/meower-community/MDWalters125) - A multi-purpose Meower bot.
+- [Meowy](https://github.com/ArrowAced/meowy) - cat's bot made in RoarBot.
 - [Webhooks](https://github.com/meower-community/Webhooks) - A Meower bot for posting without Cloudlink.
 - [WlodekBot](https://github.com/WlodekM/WlodekBot]) - A fork of wlbot with more features and easier customizability.
 - [YetAnotherBot](https://github.com/delusionsGH/yetanotherbot) - A simple but powerful Meower bot, made in Scratch. Rarely updated.
