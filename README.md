@@ -43,7 +43,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [Webhooks](https://github.com/meower-community/Webhooks) - A Meower bot for posting without Cloudlink.
 - [WlodekBot](https://github.com/WlodekM/WlodekBot]) - A fork of wlbot with more features and easier customizability.
 - [YetAnotherBot](https://github.com/delusionsGH/yetanotherbot) - A simple but powerful Meower bot, made in Scratch. Rarely updated.
-
+- [deliribot](https://github.com/delusionsGH/deliribot) - Another simple Meower bot, made in RoarBot (JavaScript.) Frequently updated.
 ## Libraries
 
 > [!WARNING]
