@@ -24,6 +24,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 ## Clients
 
 - [Meower Svelte](https://github.com/meower-media-co/Meower-Svelte) [🌐](https://app.meower.org) - A Meower client written in Svelte. 🐱
+- [ajskateboarder](https://github.com/ajskateboarder/ajskateboarder) [🌐](https://ajskateboarder.pages.dev) - A simple, configurable, mobile-friendly Meower client.
 - [Chords](https://github.com/showierdata9978/Chords) - A React Native Android client that was the first client made with Meower.js.
 - [Furrchat](https://github.com/SoupleCodes/furrchat) [🌐](https://souplecodes.github.io/furrchat/) - A 2000s style client for Meower.
 - [Meo](https://github.com/3r1s-s/meo) [🌐](https://meo-32r.pages.dev) - Neo + Meower.
