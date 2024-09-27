@@ -29,7 +29,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 - [Furrchat](https://github.com/SoupleCodes/furrchat) [🌐](https://souplecodes.github.io/furrchat/) - A 2000s style client for Meower.
 - [Meo](https://github.com/3r1s-s/meo) [🌐](https://meo-32r.pages.dev) - Neo + Meower.
 - [Meower Barebones](https://github.com/WlodekM/meower-barebones-v2) [🌐](https://meower-barebones-v2.pages.dev) - A barebones Meower client.
-- [Roarer](https://github.com/mybearworld/roarer) [🌐](https://mybearworld.github.io/roarer) - A simple mobile-friendly Meower client.
+- [Roarer](https://github.com/mybearworld/roarer-2) [🌐](https://mybearworld.github.io/roarer-2) - A simple mobile-friendly Meower client.
 - [Meower Vanilla](https://github.com/meower-media-co/Meower-Vanilla) [🌐](https://old.meower.org) - The original Meower client, written in Scratch 3.0. 😕🐱
 - [BetterMeower](https://github.com/BetterMeower/ClassicClient) [🌐](https://classic.bettermeower.app) - A fork of Meower Svelte with some new and improved features. 😕
 - [BetterMeower Neon](https://github.com/BetterMeower/NeonClient) [🌐](https://bettermeower.app) - The BetterMeower you know and love; revamped. 😕
