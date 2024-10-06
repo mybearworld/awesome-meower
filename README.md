@@ -49,7 +49,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 ## Libraries
 
 > [!WARNING]
-> Some of these libraries are based on Scratch/TurboWarp. If at all possible, do not use these. Text-based programming languages are preferred.  
+> Some of these libraries are based on Scratch or forks like TurboWarp. However, text-based programming languages are preferred, as bots made with them are generally more stable and provide a better experience for the bot creator.
 
 - [Meower.js](https://github.com/meower-media-co/Meower.js) - An offical libary for both meower clients and bots. 🐱
 - [MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower. 
