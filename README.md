@@ -49,7 +49,7 @@ This repository is an unofficial list of links to awesome repositories around Me
 ## Libraries
 
 > [!WARNING]
-> If you are familiar with text programming languages, text programming languages are preferred compared to Scratch as they offer a better development experience and tend to be more stable.
+> If you are familiar with text based programming languages, text based programming languages are preferred compared to Scratch as they offer a better development experience and tend to be more stable.
 
 - [Meower.js](https://github.com/meower-media-co/Meower.js) - An offical libary for both meower clients and bots. 🐱
 - [MeowerBot.py](https://github.com/meower-community/MeowerBot.py) - A Python bot library for Meower. 
