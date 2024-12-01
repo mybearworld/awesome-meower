@@ -1,3 +1,6 @@
+> [!WARNING]
+> Meower no longer exists. As a result, this list will no longer be maintained.
+
 <h1 align="center"><a href="https://meower.org"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://meower.org/assets/meowerlogo-white.svg" />
 	<img alt="Meower" src="https://meower.org/assets/meowerlogo.svg"/>
